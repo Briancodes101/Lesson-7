@@ -1,0 +1,25 @@
+p{
+    color: purple;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#ball {
+    font-size: medium;
+    font-family: Comic Sans MS;
+    font-style: italic;
+}
+
+.red {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+*{
+    text-align: center;
+    background-color: rgb(242, 166, 1);
+}
+
+ol,h4 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
